@@ -26,7 +26,7 @@ splitFactor: The split factor, if any, applied to Google's stock on the given da
 
 
 Dataset : https://www.kaggle.com/datasets/shreenidhihipparagi/google-stock-prediction                                                     
-Solution : https://github.com/Bharat-Intern-Task/Task_1 Stock Price Prediction Using LSTM.ipynb
+Solution : https://github.com/i-vineetgupta/Bharat-Intern-Task/blob/main/Task_1%20Stock%20Price%20Prediction%20Using%20LSTM.ipynb
 
 ------------------------------------------------------------------------------------------------
 
