@@ -26,7 +26,7 @@ splitFactor: The split factor, if any, applied to Google's stock on the given da
 
 
 Dataset : https://www.kaggle.com/datasets/shreenidhihipparagi/google-stock-prediction                                                     
-Solution : https://github.com/
+Solution : https://github.com/Bharat-Intern-Task/Task_1 Stock Price Prediction Using LSTM.ipynb
 
 ------------------------------------------------------------------------------------------------
 
@@ -55,4 +55,4 @@ Cabin: Cabin number
 Embarked: Port of embarkation	(C = Cherbourg, Q = Queenstown, S = Southampton)
 
 Dataset : https://www.kaggle.com/datasets/rahulsah06/titanic                                                                                   
-Solution : https://github.com/
+Solution : https://github.com/Bharat-Intern-Task/
